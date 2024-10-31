@@ -1,13 +1,19 @@
-## Ejercicios 👾
+# Ejercicios 👾 DevSenior
+## Clase01
+### ✔ [SaludoPersonal.java](clase01/SaludoPersonal.java)
+### ✔ [ImprimirCara.java](clase01/ImprimirCara.java)
+### ✔ [ImprimirDiamante.java](clase01/ImprimirDiamante.java)
+### ✔ [PedirPalabras.java](clase01/PedirPalabras.java)
 
-### [SaludoPersonal.java](clase01/SaludoPersonal.java)
-Este archivo contiene un programa sencillo e imprime un saludo personal.
+## Clase02
+### ✔ [ejercicio1.java](clase02/ejercicio1.java)
+### ✔ [ejercicio2.java](clase02/ejercicio2.java)
+### ✔ [ejercicio3.java](clase02/ejercicio3.java)
+### ✔ [ejercicio4.java](clase02/ejercicio4.java)
+### ✔ [ejercicio5.java](clase02/ejercicio5.java)
+### ✔ [ejercicio6.java](clase02/ejercicio6.java)
+### ✔ [ejercicio7.java](clase02/ejercicio7.java)
+### ✔ [ejercicio8.java](clase02/ejercicio8.java)
+### ✔ [ejercicio9.java](clase02/ejercicio9.java)
+### ✔ [ejercicio10.java](clase02/ejercicio10.java)
 
-### [ImprimirCara.java](clase01/ImprimirCara.java)
-Este archivo contiene un programa que imprime una cara en la consola utilizando caracteres ASCII.
-
-### [ImprimirDiamante.java](clase01/ImprimirDiamante.java)
-Este archivo contiene un programa que imprime un diamante en la consola utilizando caracteres ASCII.
-
-### [PedirPalabras.java](clase01/PedirPalabras.java)
-Este archivo contiene un programa que solicita al usuario que ingrese tres palabras y luego las imprime en una sola línea separadas por espacios. 
