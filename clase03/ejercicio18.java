@@ -1,5 +1,3 @@
-package clase03;
-
 import java.util.Random;
 
 public class ejercicio18 {

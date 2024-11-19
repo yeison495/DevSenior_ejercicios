@@ -1,5 +1,3 @@
-package clase03;
-
 public class ejercicio17 {
 
     public static void main(String[] args) {
